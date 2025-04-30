@@ -6,12 +6,16 @@
     grid-template-rows: repeat(5,9rem);
     gap: 1rem;
 
+    background-color: #dfb3d7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 .teclas {
     font-size: 3rem;
-    border: 1px solid gray;
-    border-radius: 3px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    background-color: rgb(193, 221, 233);
 
 
     display: flex;
@@ -20,7 +24,7 @@
 }
 
 .teclas:hover{
-    background-color: blanchedalmond;
+    background-color: skyblue;
 }
 
 .tecla-0 {

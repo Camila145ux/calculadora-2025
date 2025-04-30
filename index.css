@@ -3,7 +3,8 @@
 #Calculadora {
     width: 40rem;
     height: 70rem;
-    border: 1px solid black;
+    border: 2px solid black;
+    border-radius: 8px;
 
     margin:auto;
     margin-top: 10rem;
